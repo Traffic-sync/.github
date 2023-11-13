@@ -6,7 +6,7 @@ The primary goal of this tool is to notify all participants in traffic about pot
 
 Here's a glimpse of the future minimalist app and how it will look:
 
-![Who are you screen](mock-up/WhoAreYouScreen.svg) ![Waiting for accepting violation screen](mock-up/WaitingForAcceptingViolationScreen.svg) ![Blure alert notification screen](mock-up/BlureAlertNotificationScreen.svg)
+![Who are you screen](https://github.com/Traffic-sync/.github/blob/main/profile/mock-up/WhoAreYouScreen.svg) ![Waiting for accepting violation screen](https://github.com/Traffic-sync/.github/blob/main/profile/mock-up/WaitingForAcceptingViolationScreen.svg) ![Blure alert notification screen](https://github.com/Traffic-sync/.github/blob/main/profile/mock-up/BlureAlertNotificationScreen.svg)
 
 ## What problem does it solve?
 The main problem is that the number of road accidents is increasing every year. According to the World Health Organization, 
