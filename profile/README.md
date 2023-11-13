@@ -6,9 +6,9 @@ The primary goal of this tool is to notify all participants in traffic about pot
 
 Here's a glimpse of the future minimalist app and how it will look:
 <div style="display: flex; justify-content: space-between;">
-    <img src="mock-up/WhoAreYouScreen.svg" alt="WhoAreYouScreen.svg" width="466" height="215">
-    <img src="mock-up/WaitingForAcceptingViolationScreen.svg" alt="WaitingForAcceptingViolationScreen.svg" width="466" height="215">
-    <img src="mock-up/BlureAlertNotificationScreen.svg" alt="BlureAlertNotificationScreen.svg" width="466" height="215">
+    <img src="https://github.com/Traffic-sync/.github/blob/main/profile/mock-up/WhoAreYouScreen.svg" alt="WhoAreYouScreen.svg" width="466" height="215">
+    <img src="https://github.com/Traffic-sync/.github/blob/main/profile/mock-up/WaitingForAcceptingViolationScreen.svg" alt="WaitingForAcceptingViolationScreen.svg" width="466" height="215">
+    <img src="https://github.com/Traffic-sync/.github/blob/main/profile/mock-up/BlureAlertNotificationScreen.svg" alt="BlureAlertNotificationScreen.svg" width="466" height="215">
 </div>
 
 ## How it will works?
