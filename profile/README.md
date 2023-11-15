@@ -26,7 +26,7 @@ The main idea is to use the power of AI to detect potential accidents and notify
 3. Place your phone in a special holder in your car.
 4. Start driving putting the app in the background and phone on the holder to see the road or riding a bike or walking.
 5. If the app detects a potential accident, it will notify you and other participants in traffic about it.
-6. You and other participants in traffic are safe.
+6. You and other participants in traffic are vigilent and safe.
 
 ## Transparency and how it works in the background
 (You will know soon)
